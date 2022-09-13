@@ -1,0 +1,3 @@
+const bitcoin = 21000;
+const dolar = 1000;
+const canBuy = dolar / bitcoin;
